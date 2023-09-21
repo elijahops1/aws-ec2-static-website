@@ -1,3 +1,3 @@
-access_key = "AKIA5MJNUPSBNG3K4QGN"
-secret_key = "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"
+access_key = "access_key"
+secret_key = "secret_key"
 region     = "us-east-1"
